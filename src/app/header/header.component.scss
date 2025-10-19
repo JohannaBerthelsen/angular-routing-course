@@ -47,7 +47,7 @@
           top: 14px;
           left: 0px;
         }
-        .user-icon{
+        .user-icon {
           width: 80px;
           .log-in {
             color: white;
@@ -61,9 +61,9 @@
             top: 4px;
             left: 0px;
           }
-          img{
+          img {
             position: absolute;
-            top:7px;
+            top: 7px;
             left: 45px;
           }
         }
@@ -77,4 +77,10 @@
     position: relative;
     top: -5px;
   }
+}
+
+.active-link {
+  font-size: 16px;
+  font-weight: 800;
+  text-shadow: 3px 3px 3px rgba(54, 48, 44, 1);
 }
